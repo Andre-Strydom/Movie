@@ -37,7 +37,7 @@ A web app that used the OMDb API to compare movies
 
 ## Live Demo
 
-[Live Demo Link](https://andre-strydom.github.io/Movie/)
+[Live Demo Link](https://andre-strydom.github.io/Movie-Fight/)
 
 
 ## Getting Started
@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 - go to the directory that you want to clone the repository in.
 - Open terminal.
-- type "git clone https://github.com/Andre-Strydom/Movie.git".
+- type "git clone https://github.com/Andre-Strydom/Movie-Fight.git".
 
 ## Authors
 
