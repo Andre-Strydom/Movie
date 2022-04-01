@@ -15,8 +15,6 @@ A web app that used the OMDb API to compare movies
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-![alt text][screenshot]
-
 [logo]: ./Movie-Fight.PNG "Logo Title Text 2"
 
 # Movie Fight
